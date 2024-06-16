@@ -15,10 +15,6 @@ format:
     css: styles.css
     toc: true
     
-    publish:
-  - quarto-pub:
-      id: "nithura-t"
-      site: "my-first-website"
 
 
 
